@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Privacy Policy for Piggy48!
 
-You can use the [editor on GitHub](https://github.com/marcJV/PrivacyPolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](img/banner.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Marc Vandehey built the Piggy48 app as a Commercial app. This SERVICE is provided by Marc Vandehey and is intended for use as is. 
 
-### Markdown
+I will not store your data. I don't want it, nor do I have any means to do it. I built this game using Godot! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am working on having the least amount of permissions that I can for this app. The current goal is 0 permissions.
 
-```markdown
-Syntax highlighted code block
+Currently with Godot 3.1 I have to ask for the RECORD_AUDIO permission. This is a new feature for the platform and I expect it to be optional in the future. 
 
-# Header 1
-## Header 2
-### Header 3
+The game should not ask for this permission at any time, and if for some reason that it does please deny it.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcJV/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](img/game_grid.png)
